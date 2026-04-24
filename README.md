@@ -10,7 +10,7 @@ I love turning ideas into digital projects and exploring different technologies 
 ## 👩‍💻 About Me
 
 - 🎓 Informatics Engineering Student  
-- 💻 Currently learning **Laravel, Express, and Python**  
+- 💻 Currently learning **Laravel, Express, and Modern Web Development**  
 - 🚀 Passionate about **Web Development & Backend Systems**  
 - 🌱 Always exploring new technologies  
 - ⚡ Fun fact: I sometimes debug for hours just to find a missing semicolon 😆
@@ -21,77 +21,94 @@ I love turning ideas into digital projects and exploring different technologies 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,git,github,vscode,react,nextjs,ts,nodejs" />
 
 </p>
 
 ---
 
-## 🚀 Real World Projects
+# 🚀 Real World Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 ### 🕋 Hajj & Umrah Landing Page
-Landing page website for Hajj and Umrah travel services providing package information, services, and contact access.
+Landing page website for Hajj and Umrah travel services providing package information and travel services.
 
 Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![EJS](https://img.shields.io/badge/EJS-gray)
+![PHP](https://img.shields.io/badge/PHP-purple)
+
+</td>
+
+<td width="50%">
+
+### 💼 Financial Management System — BAPPEDA Malang
+Web application developed to help manage and monitor financial activities within a government institution.
+
+Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-purple)
+![EJS](https://img.shields.io/badge/EJS-gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📦 Back Order Control Dashboard — PT Denso Indonesia
+Dashboard used to monitor **live tracking of delayed or back order items** in supply chain operations.
+
+Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-purple)
+![SQL Server](https://img.shields.io/badge/SQL--Server-red)
+![SSMS](https://img.shields.io/badge/SSMS-gray)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 </td>
 
 <td width="50%">
 
-### 💼 Financial Management System
-System developed for **BAPPEDA Malang** to help manage and monitor financial activities.
-
-Tech Stack  
-![PHP](https://img.shields.io/badge/PHP-purple)
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📦 Back Order Control Dashboard
-Dashboard for **PT Denso Indonesia** to monitor live tracking of delayed or back order items.
-
-Tech Stack  
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-
-</td>
-
-<td width="50%">
-
 ### 🏭 BNF Material Control System
-Internal system for **PC Material Control division** to handle operational material management issues.
+Internal system for the **PC Material Control division** to handle operational issues related to material management.
 
 Tech Stack  
-![PHP](https://img.shields.io/badge/PHP-purple)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
+![NextJS](https://img.shields.io/badge/Next.js-black)
+![React](https://img.shields.io/badge/React-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![NodeJS](https://img.shields.io/badge/Node.js-green)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🤖 PO Automation System
-Automation system that sends **daily purchase order plan emails automatically to suppliers**.
+Automation system that automatically sends **daily purchase order plan emails to suppliers**.
 
 Tech Stack  
-![Python](https://img.shields.io/badge/Python-yellow)
-![Automation](https://img.shields.io/badge/Automation-green)
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange)
 
 </td>
+
 </tr>
+
 </table>
 
 ---
