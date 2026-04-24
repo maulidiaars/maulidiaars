@@ -154,15 +154,17 @@ Tech Stack
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-Portfolio  
-https://portofolio-maulidiah-rizki-syahfitr.vercel.app/
+<a href="https://portofolio-maulidiah-rizki-syahfitr.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7A4E7A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-TikTok  
-https://www.tiktok.com/@lidsign
+<a href="https://www.tiktok.com/@lidsign">
+<img src="https://img.shields.io/badge/TikTok-@lidsign-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
 </p>
 
