@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Lidia</h1>
-<h3 align="center">Informatics Engineering Student | Future Web Developer 🚀</h3>
+<h3 align="center">Informatics Engineering | Future Web Developer 🚀</h3>
 
 <p align="center">
 I love turning ideas into digital projects and exploring different technologies in software development.
