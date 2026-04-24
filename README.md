@@ -29,20 +29,70 @@ I love turning ideas into digital projects and exploring different technologies 
 
 ## 🚀 Real World Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🕋 Hajj & Umrah Landing Page
-Website landing page for a travel agency providing information about Hajj and Umrah services, including travel packages, service details, and contact information.
+Landing page website for Hajj and Umrah travel services providing package information, services, and contact access.
 
-### 💼 Financial Management System — BAPPEDA Malang
-Web application developed to manage and monitor financial activities within a government institution, helping improve financial tracking and reporting.
+Tech Stack  
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-### 📦 Back Order Control Dashboard — PT Denso Indonesia
-Dashboard system used to monitor **live tracking of delayed or back order items**, helping teams identify supply chain issues quickly.
+</td>
+
+<td width="50%">
+
+### 💼 Financial Management System
+System developed for **BAPPEDA Malang** to help manage and monitor financial activities.
+
+Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-purple)
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📦 Back Order Control Dashboard
+Dashboard for **PT Denso Indonesia** to monitor live tracking of delayed or back order items.
+
+Tech Stack  
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+</td>
+
+<td width="50%">
 
 ### 🏭 BNF Material Control System
-Internal system designed to assist the **PC Material Control division** in handling operational issues related to material management and coordination.
+Internal system for **PC Material Control division** to handle operational material management issues.
+
+Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-purple)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🤖 PO Automation System
-Automation system that automatically sends **daily purchase order plan emails to suppliers**, reducing manual work and improving communication efficiency.
+Automation system that sends **daily purchase order plan emails automatically to suppliers**.
+
+Tech Stack  
+![Python](https://img.shields.io/badge/Python-yellow)
+![Automation](https://img.shields.io/badge/Automation-green)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,4 +125,6 @@ Automation system that automatically sends **daily purchase order plan emails to
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+<p align="center">
+⭐ <b>Thanks for visiting my GitHub profile!</b>
+</p>
