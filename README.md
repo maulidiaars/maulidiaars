@@ -159,11 +159,15 @@ Tech Stack
 <p align="center">
 
 <a href="https://portofolio-maulidiah-rizki-syahfitr.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7A4E7A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-9F5F9F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@lidsign">
-<img src="https://img.shields.io/badge/TikTok-@lidsign-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-@lidsign-9F5F9F?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@lidsign">
+<img src="https://img.shields.io/badge/YouTube-lidsign-9F5F9F?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
