@@ -9,10 +9,6 @@ Passionate about turning ideas into digital products and exploring modern techno
 
 <div align="center">
 
-🎓 **Informatics Engineering Student**  
-💻 Passionate about **Web Development**  
-🎨 Love designing **modern frontend interfaces**  
-
 🌱 **Currently Learning**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
