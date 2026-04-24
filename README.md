@@ -7,14 +7,29 @@ Passionate about turning ideas into digital products and exploring modern techno
 
 ---
 
-# 🌸 About Me
+## 🧭 About Me
 
-- 🎓 Informatics Engineering Student  
-- 💻 Passionate about **Web Development**  
-- 🎨 Love designing **Frontend Interfaces**  
-- ⚙️ Also interested in **Backend Systems & Automation**  
-- 🌱 Currently learning **Laravel, Next.js, and Modern JavaScript**  
-- ⚡ Fun fact: Debugging sometimes takes hours just to find one missing semicolon 😆  
+```mermaid
+graph LR
+
+A[🎓 Informatics Engineering Student] --> B[💻 Web Development]
+B --> C[🎨 Frontend Design]
+B --> D[⚙️ Backend Systems]
+
+C --> E[HTML]
+C --> F[CSS]
+C --> G[JavaScript]
+
+D --> H[Laravel]
+D --> I[Next.js]
+D --> J[Automation System]
+
+K[🌱 Currently Learning] --> I
+K --> H
+K --> G
+
+L[⚡ Fun Fact] --> M[Debugging hours for one missing semicolon 😆]
+```
 
 ---
 
