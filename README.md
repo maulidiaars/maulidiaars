@@ -7,8 +7,6 @@ Passionate about turning ideas into digital products and exploring modern techno
 
 ---
 
-## 👩‍💻 About Me
-
 <div align="center">
 
 🎓 **Informatics Engineering Student**  
