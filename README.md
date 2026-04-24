@@ -7,8 +7,6 @@ Passionate about turning ideas into digital products and exploring modern techno
 
 ---
 
-<div align="center">
-
 ## 👩‍💻 About Me
 
 🎓 **Informatics Engineering Student**  
@@ -23,8 +21,6 @@ Passionate about turning ideas into digital products and exploring modern techno
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ⚡ *Debugging sometimes takes hours… just to find one missing semicolon* 😆
-
-</div>
 
 ---
 
