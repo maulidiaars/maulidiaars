@@ -7,29 +7,32 @@ Passionate about turning ideas into digital products and exploring modern techno
 
 ---
 
-## 🧭 About Me
+## 👩‍💻 About Me
 
-```mermaid
-graph LR
+<table>
+<tr>
+<td width="50%">
 
-A[🎓 Informatics Engineering Student] --> B[💻 Web Development]
-B --> C[🎨 Frontend Design]
-B --> D[⚙️ Backend Systems]
+🎓 **Informatics Engineering Student**  
+💻 Passionate about **Web Development**  
+🎨 Love designing **Frontend Interfaces**  
+⚙️ Interested in **Backend Systems & Automation**  
 
-C --> E[HTML]
-C --> F[CSS]
-C --> G[JavaScript]
+🌱 Currently learning:  
+`Laravel` • `Next.js` • `Modern JavaScript`
 
-D --> H[Laravel]
-D --> I[Next.js]
-D --> J[Automation System]
+⚡ Fun fact:  
+Debugging sometimes takes **hours** just to find **one missing semicolon** 😆
 
-K[🌱 Currently Learning] --> I
-K --> H
-K --> G
+</td>
 
-L[⚡ Fun Fact] --> M[Debugging hours for one missing semicolon 😆]
-```
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
