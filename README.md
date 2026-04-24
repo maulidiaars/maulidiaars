@@ -13,9 +13,7 @@ Passionate about turning ideas into digital products and exploring modern techno
 💻 Passionate about Web Development  
 🎨 Enjoy designing modern Frontend interfaces  
 ⚙️ Interested in Backend Systems & Automation  
-
 🌱 Currently learning Laravel, Next.js, and modern JavaScript.
-
 ⚡ Fun fact: Sometimes debugging takes hours just to find one missing semicolon 😆
 
 ---
