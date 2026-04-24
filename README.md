@@ -1,13 +1,8 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9F5F9F&height=200&section=header&text=Lidia%20%F0%9F%91%8B&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<h1 align="center">Hi 👋 I'm Lidia</h1>
+<h3 align="center">Informatics Engineering Student | Future Web Developer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=650&height=60&duration=4000&color=B784DB&lines=Creative+Web+Developer;Frontend+Lover;Backend+Explorer;Building+Beautiful+Web+Experiences"/>
-</p>
-
-<p align="center">
-Turning ideas into digital products and crafting modern web experiences with creativity and code.
+Passionate about turning ideas into digital products and exploring modern technologies in web development.
 </p>
 
 ---
