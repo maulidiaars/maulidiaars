@@ -27,12 +27,22 @@ I love turning ideas into digital projects and exploring different technologies 
 
 ---
 
-## 📌 Current Projects
+## 🚀 Real World Projects
 
-- 🚀 **Event Registration System**
-- 💼 **PO Automation System**
-- 🌐 **Portfolio Website**
-- 🧪 Random experiments & coding practice
+### 🕋 Hajj & Umrah Landing Page
+Website landing page for a travel agency providing information about Hajj and Umrah services, including travel packages, service details, and contact information.
+
+### 💼 Financial Management System — BAPPEDA Malang
+Web application developed to manage and monitor financial activities within a government institution, helping improve financial tracking and reporting.
+
+### 📦 Back Order Control Dashboard — PT Denso Indonesia
+Dashboard system used to monitor **live tracking of delayed or back order items**, helping teams identify supply chain issues quickly.
+
+### 🏭 BNF Material Control System
+Internal system designed to assist the **PC Material Control division** in handling operational issues related to material management and coordination.
+
+### 🤖 PO Automation System
+Automation system that automatically sends **daily purchase order plan emails to suppliers**, reducing manual work and improving communication efficiency.
 
 ---
 
