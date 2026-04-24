@@ -12,7 +12,6 @@ Passionate about turning ideas into digital products and exploring modern techno
 🎓 **Informatics Engineering Student**  
 💻 Passionate about **Web Development**  
 🎨 Love designing **modern frontend interfaces**  
-⚙️ Interested in **backend systems & automation**
 
 🌱 **Currently Learning**
 
